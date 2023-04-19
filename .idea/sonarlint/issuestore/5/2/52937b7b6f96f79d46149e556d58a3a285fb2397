@@ -1,0 +1,9 @@
+
+o
+java:S1128"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonManagedReference'.(Æ˜µ8ÄÍÙø0
+^
+java:S1128"<Remove this unused import 'jakarta.persistence.CascadeType'.(ÃÃÊŠúÿÿÿÿ8ÄÍÙø0
+\
+java:S1128":Remove this unused import 'jakarta.persistence.FetchType'.(ŠÂ¤Šûÿÿÿÿ8ÄÍÙø0
+\
+java:S1128":Remove this unused import 'jakarta.persistence.OneToMany'.( ëîéúÿÿÿÿ8‚ÄÍÙø0
